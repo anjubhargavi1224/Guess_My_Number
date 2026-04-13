@@ -6,7 +6,7 @@ Built using HTML, CSS, and JavaScript, the game provides instant feedback on gue
 
 ## 🌐 Live Demo
 ```sh
-
+https://guess-my-number-52ar.vercel.app/
 ```
 
 ## Preview
